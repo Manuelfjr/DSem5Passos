@@ -15,6 +15,13 @@ build/
 .models/
 .comments/
 
+# Steps
+step2.ipynb
+step3.ipynb
+step4.ipynb
+step5.ipynb
+reglog_titanic.ipynb
+
 develop-eggs/
 dist/
 downloads/
