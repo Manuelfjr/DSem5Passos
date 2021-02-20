@@ -19,6 +19,7 @@ build/
 # Steps
 .myutils/
 .raw/
+.speak.mp3 
 
 #Day2
 .step2.ipynb
