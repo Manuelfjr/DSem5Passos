@@ -13,7 +13,6 @@ build/
 .venv/
 .ipynb_checkpoints/
 .models/
-.img/
 .comments/
 
 develop-eggs/
