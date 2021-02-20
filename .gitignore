@@ -14,6 +14,7 @@ build/
 .ipynb_checkpoints/
 .models/
 .comments/
+.extra/
 
 # Steps
 .step2.ipynb
