@@ -19,6 +19,7 @@ build/
 # Steps
 .myutils/
 .raw/
+.sotestes.py
 .speak.mp3 
 
 #Day2
