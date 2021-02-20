@@ -1,4 +1,5 @@
 
+
 # EM 5 PASSOS, TRANSFORME DADOS EM OURO 
 
 ## Passo (I) 
@@ -22,5 +23,5 @@
 * **Aguarde ...**
 
 
-<img src="notebooks/steps/.img/logolanc.png" width=95%” height=”20%”>
+<img src="notebooks/" width=95%” height=”20%”>
 
