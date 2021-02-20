@@ -53,4 +53,4 @@ Para desativarmos o ambiente, e voltarmos ao padrão, rode o seguinte:
 deactivate
 ```
 
-© [manuelfjr.github.io](manuelfjr.github.io)
+© [manuelfjr.github.io](https://manuelfjr.github.io/)
