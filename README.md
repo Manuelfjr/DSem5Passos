@@ -23,5 +23,5 @@
 * **Aguarde ...**
 
 
-<img src="notebooks/" width=95%” height=”20%”>
+<img src="notebooks/steps/.img/logolanc.png" width=95%” height=”20%”>
 
