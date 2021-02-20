@@ -13,16 +13,29 @@ build/
 .venv/
 .ipynb_checkpoints/
 .models/
-
-
 .comments/
 .extra/
 
 # Steps
+.myutils/
+.raw/
+
+#Day2
 .step2.ipynb
+.speech_to_text/
+
+#Day3
 .step3.ipynb
+.yt_download/
+
+#Day4
 .step4.ipynb
+.insta_bot/
+
+#Day5
 .step5.ipynb
+
+#Finish
 .reglog_titanic.ipynb
 
 develop-eggs/
