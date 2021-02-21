@@ -1,5 +1,5 @@
 # Passo a passo para usar o text to speech
-
+* **Obs.:** Necessário ter o VLC instalado na máquina 
 ## Passo 1:
 Vamos criar um env (enviroment, ou ambiente para trabalharmos e não "cansar" sua máquina), vamos baixar o virtualenv da seguinte forma :
 ```
