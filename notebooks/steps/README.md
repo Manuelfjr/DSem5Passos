@@ -12,11 +12,11 @@ Para quem estará usando o colab, copie e cole isto em uma célula de código do
 
 ## Passo (II)
 
-* **Aguarde ...**
+* [**ANÁLISE E VISUALIZAÇÃO DOS DADOS ...**](https://colab.research.google.com/github/Manuelfjr/DSem5Passos/blob/master/notebooks/steps/step2.ipynb)
   
 ## Passo (III)
 
-* **Aguarde ...**
+* [**PRÉ-PROCESSAMENTO OU FEATURE ENGINEERING ...**](https://colab.research.google.com/github/Manuelfjr/DSem5Passos/blob/master/notebooks/steps/step3.ipynb)
   
 ## Passo (IV)
 
