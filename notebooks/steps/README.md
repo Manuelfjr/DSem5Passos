@@ -20,7 +20,7 @@ Para quem estará usando o colab, copie e cole isto em uma célula de código do
   
 ## Passo (IV)
 
-* **Aguarde ...**
+* [**INSTANCIAMENTO DO MODELO ...**](https://colab.research.google.com/github/Manuelfjr/DSem5Passos/blob/master/notebooks/steps/step4.ipynb)
   
 ## Passo (V)
 
