@@ -24,6 +24,6 @@ Para quem estará usando o colab, copie e cole isto em uma célula de código do
   
 ## Passo (V)
 
-* **Aguarde ...**
+* [**AVALIAÇÃO DOS RESULTADOS ...**](https://colab.research.google.com/github/Manuelfjr/DSem5Passos/blob/master/notebooks/steps/step5.ipynb)
 
 © [manuelfjr.github.io](https://manuelfjr.github.io/)
