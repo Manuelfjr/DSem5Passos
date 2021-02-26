@@ -1,0 +1,7 @@
+LINUX (debian/ubunto)
+ 	sudo apt-get install portaudio19-dev python3-pyaudio
+	pip install pyaudio 
+WINDOWS
+	pip install piwpip
+	piwpip install pyaudio
+	
